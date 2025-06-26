@@ -127,6 +127,3 @@ Aplikasi akan berjalan di [http://localhost:5000](http://localhost:5000)
 Aplikasi ini dikembangkan untuk keperluan edukasi dan tugas akhir mata kuliah Teknologi Multimedia.
 
 ---
-
-## Pengembangan Selanjutnya
-Silakan tambahkan bagian analisis, hasil pengujian, studi pustaka, dan pembahasan lain sesuai kebutuhan laporan praktikum. 
